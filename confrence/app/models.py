@@ -12,5 +12,13 @@ class Tracks(models.Model):
     description=models.TextField(max_length=1000)
 
 
+class Sessions(models.Model):
+    title=models.CharField(max_length=50)
+    abstract=models.CharField(max_length=2000)
+    track=models.ForeignKey(Tracks)
+    speaker=models.ForeignKey(Speaker)
+
+
+
 
 
