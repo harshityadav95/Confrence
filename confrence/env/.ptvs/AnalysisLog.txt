@@ -1,0 +1,601 @@
+﻿
+2017-01-09T01:45:47: Start analysis
+2017-01-09T01:45:47: [WARNING] Library was set explicitly - skipping path detection
+2017-01-09T01:45:47: IncludeModulesFromModulePath = win32com
+2017-01-09T01:45:48: Deleting 0 files
+2017-01-09T01:45:48: Scraping builtin modules
+2017-01-09T01:45:48: Command: H:\Harshit\Code\confrence\confrence\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" H:\Harshit\Code\confrence\confrence\env\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-01-09T01:45:51: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\signal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-01-09T01:45:51: Scraped builtin modules
+2017-01-09T01:45:51: astropy.CallDepth = 0
+2017-01-09T01:45:51: matplotlib.CallDepth = 3
+2017-01-09T01:45:51: pandas.CallDepth = 0
+2017-01-09T01:45:51: sympy.CallDepth = 0
+2017-01-09T01:45:51: Start group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages" with 2 files
+2017-01-09T01:45:51: Parsing "easy_install" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\easy_install.py")
+2017-01-09T01:45:51: Parsing "pkg_resources" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pkg_resources.py")
+2017-01-09T01:45:51: Parsing complete
+2017-01-09T01:45:51: Analyzing "easy_install"
+2017-01-09T01:45:51: Analyzing "pkg_resources"
+2017-01-09T01:45:51: Starting analysis of 2 modules
+2017-01-09T01:45:53: Analysis complete
+2017-01-09T01:45:53: Saving group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages"
+2017-01-09T01:45:53: End of group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages"
+2017-01-09T01:45:53: Start group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip" with 208 files
+2017-01-09T01:45:53: Parsing "pip.basecommand" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\basecommand.py")
+2017-01-09T01:45:53: Parsing "pip.baseparser" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\baseparser.py")
+2017-01-09T01:45:53: Parsing "pip.cmdoptions" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\cmdoptions.py")
+2017-01-09T01:45:53: Parsing "pip.download" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\download.py")
+2017-01-09T01:45:53: Parsing "pip.exceptions" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\exceptions.py")
+2017-01-09T01:45:53: Parsing "pip.index" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\index.py")
+2017-01-09T01:45:53: Parsing "pip.locations" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\locations.py")
+2017-01-09T01:45:53: Parsing "pip.log" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\log.py")
+2017-01-09T01:45:53: Parsing "pip.pep425tags" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\pep425tags.py")
+2017-01-09T01:45:53: Parsing "pip.req" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\req.py")
+2017-01-09T01:45:53: Parsing "pip.runner" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\runner.py")
+2017-01-09T01:45:53: Parsing "pip.status_codes" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\status_codes.py")
+2017-01-09T01:45:53: Parsing "pip.util" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\util.py")
+2017-01-09T01:45:53: Parsing "pip.wheel" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\wheel.py")
+2017-01-09T01:45:53: Parsing "pip" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\__init__.py")
+2017-01-09T01:45:53: Parsing "pip.__main__" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\__main__.py")
+2017-01-09T01:45:53: Parsing "pip.backwardcompat" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\backwardcompat\__init__.py")
+2017-01-09T01:45:53: Parsing "pip.commands.bundle" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\commands\bundle.py")
+2017-01-09T01:45:53: Parsing "pip.commands.completion" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\commands\completion.py")
+2017-01-09T01:45:53: Parsing "pip.commands.freeze" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\commands\freeze.py")
+2017-01-09T01:45:53: Parsing "pip.commands.help" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\commands\help.py")
+2017-01-09T01:45:53: Parsing "pip.commands.install" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\commands\install.py")
+2017-01-09T01:45:53: Parsing "pip.commands.list" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\commands\list.py")
+2017-01-09T01:45:53: Parsing "pip.commands.search" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\commands\search.py")
+2017-01-09T01:45:53: Parsing "pip.commands.show" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\commands\show.py")
+2017-01-09T01:45:53: Parsing "pip.commands.uninstall" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\commands\uninstall.py")
+2017-01-09T01:45:53: Parsing "pip.commands.unzip" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\commands\unzip.py")
+2017-01-09T01:45:53: Parsing "pip.commands.wheel" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\commands\wheel.py")
+2017-01-09T01:45:54: Parsing "pip.commands.zip" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\commands\zip.py")
+2017-01-09T01:45:54: Parsing "pip.commands" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\commands\__init__.py")
+2017-01-09T01:45:54: Parsing "pip.vcs.bazaar" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\vcs\bazaar.py")
+2017-01-09T01:45:54: Parsing "pip.vcs.git" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\vcs\git.py")
+2017-01-09T01:45:54: Parsing "pip.vcs.mercurial" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\vcs\mercurial.py")
+2017-01-09T01:45:54: Parsing "pip.vcs.subversion" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\vcs\subversion.py")
+2017-01-09T01:45:54: Parsing "pip.vcs" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\vcs\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.pkg_resources" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\pkg_resources.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.six" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\six.py")
+2017-01-09T01:45:54: Parsing "pip._vendor" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.colorama.ansi" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.colorama.ansitowin32" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.colorama.initialise" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.colorama.win32" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.colorama.winterm" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.colorama" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib.compat" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib.database" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\database.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib.index" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\index.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib.locators" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib.manifest" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib.markers" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib.metadata" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib.resources" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib.scripts" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib.util" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\util.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib.version" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\version.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib.wheel" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib._backport.misc" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib._backport.shutil" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib._backport.sysconfig" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib._backport.tarfile" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.distlib._backport" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.constants" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.html5parser" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.ihatexml" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\ihatexml.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.inputstream" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\inputstream.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.sanitizer" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\sanitizer.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.tokenizer" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\tokenizer.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.utils" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\utils.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.filters.lint" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.filters.optionaltags" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.filters.sanitizer" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.filters.whitespace" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.filters._base" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\filters\_base.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.filters" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.serializer.htmlserializer" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\serializer\htmlserializer.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.serializer" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\serializer\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.treebuilders.dom" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.treebuilders.etree" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.treebuilders._base" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\_base.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.treebuilders" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.treewalkers.dom" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.treewalkers.etree" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.treewalkers.genshistream" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshistream.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.treewalkers.lxmletree" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\lxmletree.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.treewalkers.pulldom" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\pulldom.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.treewalkers._base" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\_base.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.treewalkers" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.trie.datrie" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\trie\datrie.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.trie.py" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\trie\py.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.trie._base" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\trie\_base.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.html5lib.trie" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\html5lib\trie\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.adapters" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.api" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\api.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.auth" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\auth.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.certs" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\certs.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.compat" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\compat.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.cookies" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.exceptions" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.hooks" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.models" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\models.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.sessions" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.status_codes" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.structures" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\structures.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.utils" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\utils.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.big5freq" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\big5freq.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.big5prober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\big5prober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.chardistribution" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\chardistribution.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.charsetgroupprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\charsetgroupprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.charsetprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\charsetprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.codingstatemachine" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\codingstatemachine.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.compat" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\compat.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.constants" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\constants.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.cp949prober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\cp949prober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.escprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\escprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.escsm" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\escsm.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.eucjpprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\eucjpprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.euckrfreq" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\euckrfreq.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.euckrprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\euckrprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.euctwfreq" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\euctwfreq.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.euctwprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\euctwprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.gb2312freq" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\gb2312freq.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.gb2312prober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\gb2312prober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.hebrewprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\hebrewprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.jisfreq" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\jisfreq.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.jpcntx" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\jpcntx.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.langbulgarianmodel" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\langbulgarianmodel.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.langcyrillicmodel" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\langcyrillicmodel.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.langgreekmodel" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\langgreekmodel.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.langhebrewmodel" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\langhebrewmodel.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.langhungarianmodel" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\langhungarianmodel.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.langthaimodel" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\langthaimodel.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.latin1prober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\latin1prober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.mbcharsetprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\mbcharsetprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.mbcsgroupprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\mbcsgroupprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.mbcssm" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\mbcssm.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.sbcharsetprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\sbcharsetprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.sbcsgroupprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\sbcsgroupprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.sjisprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\sjisprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.universaldetector" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\universaldetector.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.utf8prober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\utf8prober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.charade.__main__" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\charade\__main__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.compat" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.constants" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.escprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.escsm" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.chardet" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.connection" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.fields" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.request" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.response" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.util" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3._collections" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.packages" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2017-01-09T01:45:54: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2017-01-09T01:45:54: Parsing "pip._vendor._markerlib.markers" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\_markerlib\markers.py")
+2017-01-09T01:45:54: Parsing "pip._vendor._markerlib" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip\_vendor\_markerlib\__init__.py")
+2017-01-09T01:45:54: Parsing complete
+2017-01-09T01:45:54: Analyzing "pip.basecommand"
+2017-01-09T01:45:54: Analyzing "pip.baseparser"
+2017-01-09T01:45:54: Analyzing "pip.cmdoptions"
+2017-01-09T01:45:54: Analyzing "pip.download"
+2017-01-09T01:45:54: Analyzing "pip.exceptions"
+2017-01-09T01:45:54: Analyzing "pip.index"
+2017-01-09T01:45:54: Analyzing "pip.locations"
+2017-01-09T01:45:54: Analyzing "pip.log"
+2017-01-09T01:45:54: Analyzing "pip.pep425tags"
+2017-01-09T01:45:54: Analyzing "pip.req"
+2017-01-09T01:45:54: Analyzing "pip.runner"
+2017-01-09T01:45:54: Analyzing "pip.status_codes"
+2017-01-09T01:45:54: Analyzing "pip.util"
+2017-01-09T01:45:54: Analyzing "pip.wheel"
+2017-01-09T01:45:54: Analyzing "pip"
+2017-01-09T01:45:54: Analyzing "pip.__main__"
+2017-01-09T01:45:54: Analyzing "pip.backwardcompat"
+2017-01-09T01:45:54: Analyzing "pip.commands.bundle"
+2017-01-09T01:45:54: Analyzing "pip.commands.completion"
+2017-01-09T01:45:54: Analyzing "pip.commands.freeze"
+2017-01-09T01:45:54: Analyzing "pip.commands.help"
+2017-01-09T01:45:54: Analyzing "pip.commands.install"
+2017-01-09T01:45:54: Analyzing "pip.commands.list"
+2017-01-09T01:45:54: Analyzing "pip.commands.search"
+2017-01-09T01:45:54: Analyzing "pip.commands.show"
+2017-01-09T01:45:54: Analyzing "pip.commands.uninstall"
+2017-01-09T01:45:54: Analyzing "pip.commands.unzip"
+2017-01-09T01:45:54: Analyzing "pip.commands.wheel"
+2017-01-09T01:45:54: Analyzing "pip.commands.zip"
+2017-01-09T01:45:54: Analyzing "pip.commands"
+2017-01-09T01:45:54: Analyzing "pip.vcs.bazaar"
+2017-01-09T01:45:54: Analyzing "pip.vcs.git"
+2017-01-09T01:45:54: Analyzing "pip.vcs.mercurial"
+2017-01-09T01:45:54: Analyzing "pip.vcs.subversion"
+2017-01-09T01:45:54: Analyzing "pip.vcs"
+2017-01-09T01:45:54: Analyzing "pip._vendor.pkg_resources"
+2017-01-09T01:45:54: Analyzing "pip._vendor.six"
+2017-01-09T01:45:54: Analyzing "pip._vendor"
+2017-01-09T01:45:54: Analyzing "pip._vendor.colorama.ansi"
+2017-01-09T01:45:54: Analyzing "pip._vendor.colorama.ansitowin32"
+2017-01-09T01:45:54: Analyzing "pip._vendor.colorama.initialise"
+2017-01-09T01:45:54: Analyzing "pip._vendor.colorama.win32"
+2017-01-09T01:45:54: Analyzing "pip._vendor.colorama.winterm"
+2017-01-09T01:45:54: Analyzing "pip._vendor.colorama"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib.compat"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib.database"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib.index"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib.locators"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib.manifest"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib.markers"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib.metadata"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib.resources"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib.scripts"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib.util"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib.version"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib.wheel"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib._backport.misc"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib._backport.shutil"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib._backport.tarfile"
+2017-01-09T01:45:54: Analyzing "pip._vendor.distlib._backport"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.constants"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.html5parser"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.ihatexml"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.inputstream"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.sanitizer"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.tokenizer"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.utils"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.filters.lint"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.filters._base"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.filters"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.serializer.htmlserializer"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.serializer"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.treebuilders._base"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.treebuilders"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.treewalkers.genshistream"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.treewalkers.lxmletree"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.treewalkers.pulldom"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.treewalkers._base"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.treewalkers"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.trie.datrie"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.trie.py"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.trie._base"
+2017-01-09T01:45:54: Analyzing "pip._vendor.html5lib.trie"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.adapters"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.api"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.auth"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.certs"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.compat"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.cookies"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.exceptions"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.hooks"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.models"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.sessions"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.status_codes"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.structures"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.utils"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.big5freq"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.big5prober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.chardistribution"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.charsetgroupprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.charsetprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.codingstatemachine"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.compat"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.constants"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.cp949prober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.escprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.escsm"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.eucjpprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.euckrfreq"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.euckrprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.euctwfreq"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.euctwprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.gb2312freq"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.gb2312prober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.hebrewprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.jisfreq"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.jpcntx"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.langbulgarianmodel"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.langcyrillicmodel"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.langgreekmodel"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.langhebrewmodel"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.langhungarianmodel"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.langthaimodel"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.latin1prober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.mbcharsetprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.mbcsgroupprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.mbcssm"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.sbcharsetprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.sbcsgroupprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.sjisprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.universaldetector"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.utf8prober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.charade.__main__"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.chardet"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2017-01-09T01:45:54: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2017-01-09T01:45:54: Analyzing "pip._vendor._markerlib.markers"
+2017-01-09T01:45:54: Analyzing "pip._vendor._markerlib"
+2017-01-09T01:45:54: Starting analysis of 208 modules
+2017-01-09T01:46:01: Analysis complete
+2017-01-09T01:46:01: Saving group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip"
+2017-01-09T01:46:04: End of group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\pip"
+2017-01-09T01:46:04: Start group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools" with 55 files
+2017-01-09T01:46:04: Parsing "setuptools.archive_util" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\archive_util.py")
+2017-01-09T01:46:04: Parsing "setuptools.compat" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\compat.py")
+2017-01-09T01:46:04: Parsing "setuptools.depends" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\depends.py")
+2017-01-09T01:46:04: Parsing "setuptools.dist" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\dist.py")
+2017-01-09T01:46:04: Parsing "setuptools.extension" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\extension.py")
+2017-01-09T01:46:04: Parsing "setuptools.lib2to3_ex" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\lib2to3_ex.py")
+2017-01-09T01:46:04: Parsing "setuptools.package_index" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\package_index.py")
+2017-01-09T01:46:04: Parsing "setuptools.py26compat" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\py26compat.py")
+2017-01-09T01:46:04: Parsing "setuptools.py27compat" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\py27compat.py")
+2017-01-09T01:46:04: Parsing "setuptools.py31compat" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\py31compat.py")
+2017-01-09T01:46:04: Parsing "setuptools.sandbox" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\sandbox.py")
+2017-01-09T01:46:04: Parsing "setuptools.ssl_support" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\ssl_support.py")
+2017-01-09T01:46:04: Parsing "setuptools.svn_utils" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\svn_utils.py")
+2017-01-09T01:46:04: Parsing "setuptools.version" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\version.py")
+2017-01-09T01:46:04: Parsing "setuptools" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\__init__.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.alias" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\alias.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.bdist_egg" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\bdist_egg.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.bdist_rpm" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.bdist_wininst" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.build_ext" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\build_ext.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.build_py" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\build_py.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.develop" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\develop.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.easy_install" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\easy_install.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.egg_info" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\egg_info.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.install" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\install.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.install_egg_info" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\install_egg_info.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.install_lib" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\install_lib.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.install_scripts" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\install_scripts.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.register" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\register.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.rotate" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\rotate.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.saveopts" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\saveopts.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.sdist" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\sdist.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.setopt" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\setopt.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.test" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\test.py")
+2017-01-09T01:46:04: Parsing "setuptools.command.upload_docs" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\upload_docs.py")
+2017-01-09T01:46:04: Parsing "setuptools.command" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\command\__init__.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.doctest" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\doctest.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.environment" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\environment.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.py26compat" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\py26compat.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.server" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\server.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.test_bdist_egg" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\test_bdist_egg.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.test_build_ext" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\test_build_ext.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.test_develop" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\test_develop.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.test_dist_info" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\test_dist_info.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.test_easy_install" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\test_easy_install.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.test_egg_info" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\test_egg_info.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.test_markerlib" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\test_markerlib.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.test_packageindex" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\test_packageindex.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.test_resources" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\test_resources.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.test_sandbox" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\test_sandbox.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.test_sdist" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\test_sdist.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.test_svn" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\test_svn.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.test_test" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\test_test.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests.test_upload_docs" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\test_upload_docs.py")
+2017-01-09T01:46:04: Parsing "setuptools.tests" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools\tests\__init__.py")
+2017-01-09T01:46:04: Parsing complete
+2017-01-09T01:46:04: Analyzing "setuptools.archive_util"
+2017-01-09T01:46:04: Analyzing "setuptools.compat"
+2017-01-09T01:46:04: Analyzing "setuptools.depends"
+2017-01-09T01:46:04: Analyzing "setuptools.dist"
+2017-01-09T01:46:04: Analyzing "setuptools.extension"
+2017-01-09T01:46:04: Analyzing "setuptools.lib2to3_ex"
+2017-01-09T01:46:04: Analyzing "setuptools.package_index"
+2017-01-09T01:46:04: Analyzing "setuptools.py26compat"
+2017-01-09T01:46:04: Analyzing "setuptools.py27compat"
+2017-01-09T01:46:04: Analyzing "setuptools.py31compat"
+2017-01-09T01:46:04: Analyzing "setuptools.sandbox"
+2017-01-09T01:46:04: Analyzing "setuptools.ssl_support"
+2017-01-09T01:46:04: Analyzing "setuptools.svn_utils"
+2017-01-09T01:46:04: Analyzing "setuptools.version"
+2017-01-09T01:46:04: Analyzing "setuptools"
+2017-01-09T01:46:04: Analyzing "setuptools.command.alias"
+2017-01-09T01:46:04: Analyzing "setuptools.command.bdist_egg"
+2017-01-09T01:46:04: Analyzing "setuptools.command.bdist_rpm"
+2017-01-09T01:46:04: Analyzing "setuptools.command.bdist_wininst"
+2017-01-09T01:46:04: Analyzing "setuptools.command.build_ext"
+2017-01-09T01:46:04: Analyzing "setuptools.command.build_py"
+2017-01-09T01:46:04: Analyzing "setuptools.command.develop"
+2017-01-09T01:46:04: Analyzing "setuptools.command.easy_install"
+2017-01-09T01:46:04: Analyzing "setuptools.command.egg_info"
+2017-01-09T01:46:04: Analyzing "setuptools.command.install"
+2017-01-09T01:46:04: Analyzing "setuptools.command.install_egg_info"
+2017-01-09T01:46:04: Analyzing "setuptools.command.install_lib"
+2017-01-09T01:46:04: Analyzing "setuptools.command.install_scripts"
+2017-01-09T01:46:04: Analyzing "setuptools.command.register"
+2017-01-09T01:46:04: Analyzing "setuptools.command.rotate"
+2017-01-09T01:46:04: Analyzing "setuptools.command.saveopts"
+2017-01-09T01:46:04: Analyzing "setuptools.command.sdist"
+2017-01-09T01:46:04: Analyzing "setuptools.command.setopt"
+2017-01-09T01:46:04: Analyzing "setuptools.command.test"
+2017-01-09T01:46:04: Analyzing "setuptools.command.upload_docs"
+2017-01-09T01:46:04: Analyzing "setuptools.command"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.doctest"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.environment"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.py26compat"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.server"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.test_bdist_egg"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.test_build_ext"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.test_develop"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.test_dist_info"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.test_easy_install"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.test_egg_info"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.test_markerlib"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.test_packageindex"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.test_resources"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.test_sandbox"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.test_sdist"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.test_svn"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.test_test"
+2017-01-09T01:46:04: Analyzing "setuptools.tests.test_upload_docs"
+2017-01-09T01:46:04: Analyzing "setuptools.tests"
+2017-01-09T01:46:04: Starting analysis of 55 modules
+2017-01-09T01:46:07: Analysis complete
+2017-01-09T01:46:07: Saving group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools"
+2017-01-09T01:46:07: End of group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\setuptools"
+2017-01-09T01:46:07: Start group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\_markerlib" with 2 files
+2017-01-09T01:46:07: Parsing "_markerlib.markers" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\_markerlib\markers.py")
+2017-01-09T01:46:07: Parsing "_markerlib" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\_markerlib\__init__.py")
+2017-01-09T01:46:07: Parsing complete
+2017-01-09T01:46:07: Analyzing "_markerlib.markers"
+2017-01-09T01:46:07: Analyzing "_markerlib"
+2017-01-09T01:46:07: Starting analysis of 2 modules
+2017-01-09T01:46:09: Analysis complete
+2017-01-09T01:46:09: Saving group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\_markerlib"
+2017-01-09T01:46:09: End of group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\_markerlib"
+2017-01-09T01:46:09: Deleting 0 files
