@@ -7,7 +7,7 @@ class Speaker(models.Model):
     title=models.CharField(max_length=50)
     bio=models.CharField(max_length=10000)
 
-class Tracks(models.Model):
+class Track(models.Model):
     title=models.CharField(max_length=50)
     description=models.TextField(max_length=1000)
 
@@ -15,7 +15,7 @@ class Tracks(models.Model):
 class Sessions(models.Model):
     title=models.CharField(max_length=50)
     abstract=models.CharField(max_length=2000)
-    track=models.ForeignKey(Tracks)
+    track=models.ForeignKey(Track)
     speaker=models.ForeignKey(Speaker)
 
 
