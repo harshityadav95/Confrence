@@ -22,6 +22,7 @@ admin.site.register(Speaker,SpeakerAdmin)
 
 
 class SessionAdmin(admin.ModelAdmin):
+    list_display=('title','speaker')
     search_fields=['title','abstract']   
     list_filter=('track__title','speaker')
 
