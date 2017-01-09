@@ -14,10 +14,18 @@ class SpeakerAdmin(admin.ModelAdmin):
 
 
 
+
+
+
 # Register your models here.
 admin.site.register(Track)
 admin.site.register(Speaker,SpeakerAdmin)
-admin.site.register(Sessions)
+
+
+class SessionAdmin(admin.ModelAdmin):
+    search_fields=['title','abstract']   
+
+admin.site.register(Sessions,SessionAdmin)
 
 
 
