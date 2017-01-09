@@ -32,6 +32,9 @@
   <ItemGroup>
     <Compile Include="app\admin.py" />
     <Compile Include="app\apps.py" />
+    <Compile Include="app\auth.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="app\migrations\__init__.py" />
     <Compile Include="app\models.py" />
     <Compile Include="app\tests.py" />
@@ -46,12 +49,14 @@
   <ItemGroup>
     <Content Include="app\templates\index.html" />
     <Content Include="app\templates\layout.html" />
+    <Content Include="app\templates\auth\login.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="app\" />
     <Folder Include="app\migrations\" />
     <Folder Include="app\templates\" />
+    <Folder Include="app\templates\auth\" />
     <Folder Include="confrence\" />
   </ItemGroup>
   <ItemGroup>
