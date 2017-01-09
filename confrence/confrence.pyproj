@@ -44,11 +44,14 @@
     <Compile Include="confrence\wsgi.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\templates\index.html" />
+    <Content Include="app\templates\layout.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="app\" />
     <Folder Include="app\migrations\" />
+    <Folder Include="app\templates\" />
     <Folder Include="confrence\" />
   </ItemGroup>
   <ItemGroup>
