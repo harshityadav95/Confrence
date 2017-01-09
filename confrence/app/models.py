@@ -6,6 +6,9 @@ class Speaker(models.Model):
     name=models.CharField(max_length=40)
     title=models.CharField(max_length=50)
     bio=models.CharField(max_length=10000)
+    twitter=models.CharField(max_length=16,blank=True)
+    facebook=models.CharField(max_length=50,blank=True)
+
      # returning name in site 
     def __str__(self):
         return self.name

@@ -12,6 +12,23 @@ admin.site.site_title="Administration"
 class SpeakerAdmin(admin.ModelAdmin):
     list_display=('name','bio')
 
+    # adding Collapsable and Grouped Menu  
+    fieldsets=(
+        ("Genral Information",
+            {
+                "fields":('name','bio',)
+             }
+         ),
+        (
+            "Social Media",
+            {
+             "classes":("collapse",),
+             "fields":('twitter','facebook'),
+             "description":"Add Social Media Here"
+
+                         })
+        )
+
 
 
 # Register your models here.
