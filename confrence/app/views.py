@@ -20,7 +20,8 @@ class SessionDetail(DetailView):
 
 class SessionCreate(CreateView):
    model=Sessions
-   fields=['title','abstracts','track','speaker']
+   fields=['title','abstract','track','speaker']
+
 
 class SessionUpdate(UpdateView):
     model=Sessions
