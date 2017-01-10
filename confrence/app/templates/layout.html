@@ -27,7 +27,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#">AdventureWorks Conference</a>
+				<a class="navbar-brand" href="#">Lingayas University</a>
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="nav-toggle">
@@ -45,6 +45,7 @@
 
 						<!--Error Removed -->
                         <li><a href="{% url 'login' %}">Login</a></li>
+                        <li><a href="{% url 'register' %}">Register</a></li>
 
 
 					{% endif %}
@@ -60,7 +61,7 @@
 	</nav>
 	<div class="container">
 		<div class="jumbotron">
-			<h2>Lingaya's University Auditorium Schedule</h2>
+			<h2>Auditorium Schedule Booking System</h2>
 		</div>
 		{% if warning %}
 			<div class="alert alert-warning alert-dismissable">
