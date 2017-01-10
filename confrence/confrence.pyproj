@@ -47,6 +47,9 @@
     <Compile Include="confrence\wsgi.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\templates\app\sessions_list.html" />
+    <Content Include="app\templates\app\sessions_detail.html" />
+    <Content Include="app\templates\app\session_form.html" />
     <Content Include="app\templates\app\submit_session.html" />
     <Content Include="app\templates\auth\register.html" />
     <Content Include="app\templates\auth\registered.html" />
