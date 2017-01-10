@@ -4,6 +4,7 @@ from django.contrib import auth;
 def logout(request):
     auth.logout(request)
     return redirect('/')
+    # to redirect them to the main page  
 
 def login(request):
     if request.method == "GET":
