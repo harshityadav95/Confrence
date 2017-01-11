@@ -9,7 +9,26 @@
         </a>
 
 	</div>
+	<div class="col-sm-2">
+    <a href="/sessions/update/{{session.pk}}">
+             
+		Update
+        </a>
+
+	</div>	
+	<div class="col-sm-2">
+		<a href="{% url 'sessions_delete' session.pk %}">
+			Delete
+		</a>
+	</div>
 
 	{% endfor %}
+    <div class="col-sm-12">
+    <a href="/sessions/create">
+             
+	    Submit Session 
+        </a>
+
+	</div>
 
 {% endblock %}

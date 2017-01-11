@@ -5,6 +5,7 @@ from django.views.generic import *
 from app.models import Sessions
 from django.core.urlresolvers import reverse_lazy
 from app.models import *
+from django.contrib.auth.mixins import LoginRequiredMixin
 
 
 
@@ -37,16 +38,28 @@ def sessioncreate(request):
         return HttpResponseRedirect('/sessions');
 
 
+def sessionupdate(request):
+    if request.method=="GET":
+        form=Sessions.objects.get(pk=1);
+       
+     
+    elif request.method=="POST":
+        form=SessionForm(request.POST);
+       
 
 
 
-class SessionUpdate(UpdateView):
-    model=Sessions
-    fields=['title','abstracts','track','speaker']
 
-class SessionDelete(DeleteView):
+#class SessionUpdate(LoginRequiredMixin,UpdateView):
+#    model=Sessions
+#    fields=['title','abstracts','track','speaker']
+  
+
+class SessionDelete(LoginRequiredMixin,DeleteView):
     model=Sessions
     success_url=reverse_lazy('sessions_list')
+    def get(self, request, *args, **kwargs):
+        return self.post(request, *args, **kwargs)
 
    
 
