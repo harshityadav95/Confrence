@@ -6,6 +6,7 @@ from app.models import Sessions
 from django.core.urlresolvers import reverse_lazy
 from app.models import *
 from django.contrib.auth.mixins import LoginRequiredMixin
+from django.shortcuts import get_object_or_404
 
 
 
@@ -38,14 +39,19 @@ def sessioncreate(request):
         return HttpResponseRedirect('/sessions');
 
 
-def sessionupdate(request):
-    if request.method=="GET":
-        form=Sessions.objects.get(pk=1);
-       
-     
-    elif request.method=="POST":
-        form=SessionForm(request.POST);
-       
+
+def SessionUpdate(request,pk):
+    post = get_object_or_404(Sessions, pk=pk)
+    if request.method == "post":
+        form = SessionForm()
+        form.save()
+        return HttpResponseRedirect('/sessions');
+    else:
+        form = SessionForm(instance=post)
+    
+
+    
+    return  render(request,'app/sessions_form.html',{'form':form});
 
 
 
