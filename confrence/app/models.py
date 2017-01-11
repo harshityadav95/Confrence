@@ -1,5 +1,6 @@
 from django.db import models
 from django.core.urlresolvers import reverse
+from django import forms
 
 
 
@@ -43,8 +44,15 @@ class Sessions(models.Model):
      # returning name in site 
     def __str__(self):
         return self.title
-    def get_absolute_url(self):
-        return reverse('sessions_detail', kwargs={'pk':self.pk})
+    #def get_absolute_url(self):
+    #    return reverse('sessions_detail', kwargs={'pk':self.pk})
+
+class SessionForm(forms.ModelForm):
+    class Meta:
+        model=Sessions;
+        fields=['title','abstract','track','speaker'];
+
+        
 
 
   

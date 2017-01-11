@@ -28,7 +28,7 @@ urlpatterns = [
     url(r'^sessions/$',views.SessionList.as_view(),name='sessions_list'),
     url(r'^sessions/(?P<pk>[0-9]+)/$',views.SessionDetail.as_view() , name='sessions_details'),
 
-    url(r'^sessions/create/$',views.SessionCreate.as_view() , name='sessions_create'),
+    url(r'^sessions/create/$',views.sessioncreate, name='sessions_create'),
     url(r'^sessions/update/(?P<pk>[0-9]+)/$',views.SessionUpdate.as_view() , name='sessions_update'),
     url(r'^sessions/delete/(?P<pk>[0-9]+)/$',views.SessionDelete.as_view() , name='sessions_delete'),
 
