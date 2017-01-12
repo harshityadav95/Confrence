@@ -42,15 +42,16 @@ def sessioncreate(request):
 
 def SessionUpdate(request,pk):
     post = get_object_or_404(Sessions, pk=pk)
-    if request.method == "post":
-        form = SessionForm()
-        form.save()
-        return HttpResponseRedirect('/sessions');
+    form = SessionForm(request.POST)
+    if request.method == "POST":
+        if form.is_valid():
+            form = SessionForm(request.POST, instance=post)
+            form.save()
+            return HttpResponseRedirect('/sessions')
     else:
         form = SessionForm(instance=post)
     
-
-    
+  
     return  render(request,'app/sessions_form.html',{'form':form});
 
 

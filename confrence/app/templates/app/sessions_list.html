@@ -17,7 +17,7 @@
 
 	</div>	
 	<div class="col-sm-2">
-		 <a href="/sessions/update/{{session.pk}}">
+		<a href="{% url 'sessions_delete' session.pk %}">
 			Delete
 		</a>
 	</div>
