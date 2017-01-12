@@ -29,6 +29,7 @@ class SessionDetail(DetailView):
 #   fields=['title','abstract','track','speaker']
 #  URL redirect issue  after filling the  form and resuming back 
 
+@login_required
 def sessioncreate(request):
     if request.method=="GET":
         form=SessionForm();
