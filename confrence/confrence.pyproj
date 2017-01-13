@@ -35,6 +35,9 @@
     <Compile Include="app\auth.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="app\forms.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="app\migrations\__init__.py" />
     <Compile Include="app\models.py" />
     <Compile Include="app\tests.py" />

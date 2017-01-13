@@ -5,8 +5,10 @@
 {% block content %}
 	<form method="POST">
         {% csrf_token%}
-        {% crispy form %}
-         <button type="submit">Save</button>
+       {{form}}
+                
+          <button type="submit">Save</button>
+
 
     </form>
 

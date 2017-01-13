@@ -7,7 +7,8 @@ from django.core.urlresolvers import reverse_lazy
 from app.models import *
 from django.contrib.auth.mixins import LoginRequiredMixin
 from django.shortcuts import get_object_or_404
-
+from app.forms import SesionsForm 
+from django.contrib.auth.mixins import LoginRequiredMixin
 
 
 # Create your views here.
@@ -24,9 +25,10 @@ class SessionDetail(DetailView):
 
 
 
-class sessioncreate(CreateView):
+class sessioncreate(LoginRequiredMixin,CreateView):
    model=Sessions
    fields=['title','abstract','track','speaker']
+ #  form_class=SessionForm
 
    def form_valid(self, form):
         form.save();
@@ -47,6 +49,7 @@ class sessioncreate(CreateView):
 
 
 def SessionUpdate(request,pk):
+    form_class=SessionForm
     post = get_object_or_404(Sessions, pk=pk)
     form = SessionForm(request.POST)
     if request.method == "POST":
