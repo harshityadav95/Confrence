@@ -1,12 +1,12 @@
 ﻿{% extends 'layout.html' %}
 
-
+{% load crispy_forms_tags %}
 
 {% block content %}
 	<form method="POST">
         {% csrf_token%}
-        {{form.as_table}}
-          <button type="submit">Save</button>
+        {% crispy form %}
+         <button type="submit">Save</button>
 
     </form>
 

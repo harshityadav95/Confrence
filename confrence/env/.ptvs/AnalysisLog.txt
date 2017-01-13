@@ -4585,3 +4585,78 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Micro
 2017-01-09T16:43:36: Saving group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\_markerlib"
 2017-01-09T16:43:37: End of group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\_markerlib"
 2017-01-09T16:43:43: Deleting 0 files
+
+2017-01-14T00:39:42: Start analysis
+2017-01-14T00:39:42: [WARNING] Library was set explicitly - skipping path detection
+2017-01-14T00:39:42: IncludeModulesFromModulePath = win32com
+2017-01-14T00:39:43: Deleting 0 files
+2017-01-14T00:39:43: astropy.CallDepth = 0
+2017-01-14T00:39:43: matplotlib.CallDepth = 3
+2017-01-14T00:39:43: pandas.CallDepth = 0
+2017-01-14T00:39:43: sympy.CallDepth = 0
+2017-01-14T00:39:43: Start group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms" with 27 files
+2017-01-14T00:39:43: Parsing "crispy_forms.base" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\base.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.bootstrap" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\bootstrap.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.compatibility" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\compatibility.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.exceptions" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\exceptions.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.helper" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\helper.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.layout" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\layout.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.layout_slice" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\layout_slice.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.models" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\models.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.utils" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\utils.py")
+2017-01-14T00:39:43: Parsing "crispy_forms" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\__init__.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.templatetags.crispy_forms_field" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\templatetags\crispy_forms_field.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.templatetags.crispy_forms_filters" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\templatetags\crispy_forms_filters.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.templatetags.crispy_forms_tags" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.templatetags.crispy_forms_utils" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\templatetags\crispy_forms_utils.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.templatetags" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\templatetags\__init__.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.tests.compatibility" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\tests\compatibility.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.tests.conftest" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\tests\conftest.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.tests.forms" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\tests\forms.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.tests.test_dynamic_api" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\tests\test_dynamic_api.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.tests.test_form_helper" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\tests\test_form_helper.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.tests.test_layout" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\tests\test_layout.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.tests.test_layout_objects" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\tests\test_layout_objects.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.tests.test_settings" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\tests\test_settings.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.tests.test_tags" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\tests\test_tags.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.tests.test_utils" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\tests\test_utils.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.tests.urls" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\tests\urls.py")
+2017-01-14T00:39:43: Parsing "crispy_forms.tests" ("H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms\tests\__init__.py")
+2017-01-14T00:39:43: Parsing complete
+2017-01-14T00:39:43: Analyzing "crispy_forms.base"
+2017-01-14T00:39:43: Analyzing "crispy_forms.bootstrap"
+2017-01-14T00:39:43: Analyzing "crispy_forms.compatibility"
+2017-01-14T00:39:43: Analyzing "crispy_forms.exceptions"
+2017-01-14T00:39:43: Analyzing "crispy_forms.helper"
+2017-01-14T00:39:43: Analyzing "crispy_forms.layout"
+2017-01-14T00:39:43: Analyzing "crispy_forms.layout_slice"
+2017-01-14T00:39:43: Analyzing "crispy_forms.models"
+2017-01-14T00:39:43: Analyzing "crispy_forms.utils"
+2017-01-14T00:39:43: Analyzing "crispy_forms"
+2017-01-14T00:39:43: Analyzing "crispy_forms.templatetags.crispy_forms_field"
+2017-01-14T00:39:43: Analyzing "crispy_forms.templatetags.crispy_forms_filters"
+2017-01-14T00:39:43: Analyzing "crispy_forms.templatetags.crispy_forms_tags"
+2017-01-14T00:39:43: Analyzing "crispy_forms.templatetags.crispy_forms_utils"
+2017-01-14T00:39:43: Analyzing "crispy_forms.templatetags"
+2017-01-14T00:39:43: Analyzing "crispy_forms.tests.compatibility"
+2017-01-14T00:39:43: Analyzing "crispy_forms.tests.conftest"
+2017-01-14T00:39:43: Analyzing "crispy_forms.tests.forms"
+2017-01-14T00:39:43: Analyzing "crispy_forms.tests.test_dynamic_api"
+2017-01-14T00:39:43: Analyzing "crispy_forms.tests.test_form_helper"
+2017-01-14T00:39:43: Analyzing "crispy_forms.tests.test_layout"
+2017-01-14T00:39:43: Analyzing "crispy_forms.tests.test_layout_objects"
+2017-01-14T00:39:43: Analyzing "crispy_forms.tests.test_settings"
+2017-01-14T00:39:43: Analyzing "crispy_forms.tests.test_tags"
+2017-01-14T00:39:43: Analyzing "crispy_forms.tests.test_utils"
+2017-01-14T00:39:43: Analyzing "crispy_forms.tests.urls"
+2017-01-14T00:39:43: Analyzing "crispy_forms.tests"
+2017-01-14T00:39:43: Starting analysis of 27 modules
+2017-01-14T00:39:49: Analysis complete
+2017-01-14T00:39:49: Saving group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms"
+2017-01-14T00:39:49: End of group "H:\Harshit\Code\confrence\confrence\env\Lib\site-packages\crispy_forms"
+2017-01-14T00:39:49: Deleting 0 files
+
+2017-01-14T02:45:53: Start analysis
+2017-01-14T02:45:53: [WARNING] Library was set explicitly - skipping path detection
+2017-01-14T02:45:53: IncludeModulesFromModulePath = win32com
+2017-01-14T02:45:54: Deleting 0 files
