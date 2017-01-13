@@ -24,20 +24,25 @@ class SessionDetail(DetailView):
 
 
 
-#class SessionCreate(CreateView):
-#   model=Sessions
-#   fields=['title','abstract','track','speaker']
-#  URL redirect issue  after filling the  form and resuming back 
+class sessioncreate(CreateView):
+   model=Sessions
+   fields=['title','abstract','track','speaker']
 
-@login_required
-def sessioncreate(request):
-    if request.method=="GET":
-        form=SessionForm();
-        return  render(request,'app/sessions_form.html',{'form':form});
-    elif request.method=="POST":
-        form=SessionForm(request.POST);
+   def form_valid(self, form):
         form.save();
-        return HttpResponseRedirect('/sessions');
+        return HttpResponseRedirect('/sessions')
+
+   
+  
+#@login_required
+#def sessioncreate(request):
+#    if request.method=="GET":
+#        form=SessionForm();
+#        return  render(request,'app/sessions_form.html',{'form':form});
+#    elif request.method=="POST":
+#        form=SessionForm(request.POST);
+#        form.save();
+#        return HttpResponseRedirect('/sessions');
 
 
 
