@@ -14,7 +14,8 @@ class SesionsForm(ModelForm):
         self.helper.form_class = 'form-horizontal'
         self.helper.label_class = 'col-sm-offset-1 col-sm-2'
         self.helper.field_class = 'col-sm-8'
-    #    self.helper.add_input(Submit('submit', 'Submit'))
+        self.helper.add_input(Submit('submit', 'Submit'))    
+ 
 
                        
 

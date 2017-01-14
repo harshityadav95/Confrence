@@ -5,10 +5,12 @@
 {% block content %}
 	<form method="POST">
         {% csrf_token%}
-       {{form}}
-                
-          <button type="submit">Save</button>
-
+      
+		
+		      {{form.as_p}}
+                    <button type="submit">Save</button>
+          
+        
 
     </form>
 

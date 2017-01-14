@@ -81,8 +81,13 @@ WSGI_APPLICATION = 'confrence.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+       # 'ENGINE': 'django.db.backends.sqlite3',
+       # 'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME':'acsm_5ee7cd125ce4887',
+        'USER':'b9c88f922d311f',
+        'PASSWORD':'0c966e8f',
+        'HOST':'in-cdbr-azure-central-b.cloudapp.net',
     }
 }
 

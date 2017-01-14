@@ -27,8 +27,8 @@ class SessionDetail(DetailView):
 
 class sessioncreate(LoginRequiredMixin,CreateView):
    model=Sessions
-   fields=['title','abstract','track','speaker']
- #  form_class=SessionForm
+   #fields=['title','abstract','track','speaker']
+   form_class=SessionForm
 
    def form_valid(self, form):
         form.save();
